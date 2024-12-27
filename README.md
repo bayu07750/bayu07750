@@ -1,5 +1,3 @@
-![Banner](./assets/banner.jpg)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on an Android project.
